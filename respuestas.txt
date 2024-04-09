@@ -1,0 +1,3 @@
+No aparece el archivo tp1_1_2.c ya que este se encuentra contenido en la rama "opcion 2 y" no en la rama principal main.
+Al realaizar el commit del archivo "respuestas", avanzamos en el historial de versiones de la rama principal, la rama del archivo"opcion 2" se separa para remarcar que es una rama de trabajo distinta en la que venimos trabajando.
+Al aplicar el comando "git merge Opcion_2 -m "merge opcion 2" " el contenido de la rama opcion 2 se integra al contenido de la rama principal, de manera que los cambios mas recientes, son los pertenecientes a la rama secundaria "opcion 2"
